@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/test_effect.unity
+  isLoaded: 1
+  isActive: 1
